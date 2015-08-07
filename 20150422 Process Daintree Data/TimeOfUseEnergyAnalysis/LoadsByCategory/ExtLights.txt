@@ -1,0 +1,11 @@
+A02 Building Mounted Sign 1
+A04 Building Mounted Sign 2
+A08 Drive Thru Canopy
+A10 Eyebrow Canopy Non Critical
+A12 Eyebrow Canopy Critical
+A14 Roof
+A16 Lane Lights
+A24 Relay for A18 A23 A25 Monument & Pole Lights (Control Only)
+A27 ATM Header and Footer
+SF Pole Lights
+SG Monument Sign

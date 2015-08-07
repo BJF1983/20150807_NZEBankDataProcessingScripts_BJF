@@ -1,0 +1,94 @@
+PH PV Array Backfeed (Solar Generation)
+01 .Workstations Computer 1
+02 .Teller Line Computer 1
+03 .Workstations Computer 2
+04 .Teller Line Computer 2
+05 .Workstations Computer 3
+06 Teller Line General 1
+07 .Workstations Computer 4
+08 Teller Line General 2
+09 .Workstations Computer 5
+10 .Teller Manager Computer
+11 Workstations General 1
+12 TVs 1
+13 Workstations General 2
+14 .DT Teller Computer
+15 Workstations General 3
+16 TCD
+17 .ATM 1
+19 .ATM 2
+21 .ATM 3
+22 .DT Teller Counters
+25 .Data Backboard 1
+26 .VCR and TV Monitors
+27 .Data Backboard 2
+28 Dealer Drawer
+29 .Telephone Backboard
+30 .DT Control Unit 1
+31 .Data Rack
+32 .DT Audio Panel
+33 .Alarm Cabinet
+34 .DT Control Unit 2
+35 .DVR Recorder
+36 MFP
+37 .Data Rack
+38 General 1
+39 DT Teller Counter
+40 General 2
+41 Teller Work Rm Counter
+42 General 3
+42 RTU-1 Convenience
+43 Kitchen Appliance 1
+44 DT Teller General
+45 Kitchen Appliance 2
+47 .Refrigerator
+49 .TV and CCTV Monitors
+51 Restroom
+52 Printer 3
+53 Irrigation Controller
+54 Printer 4
+55 Printer 1
+56 TVs 2
+57 Printer 2
+58 .View Glass Controller and XFMR
+60 Water Fountain
+62 Break Room TV
+A02 Building Mounted Sign 1
+A04 Building Mounted Sign 2
+A05 Teller Area
+A07 Drive Thru Teller
+A08 Drive Thru Canopy
+A09 Corridor
+A09 Janitors Room
+A10 Eyebrow Canopy Non Critical
+A11 ATM Room
+A12 Eyebrow Canopy Critical
+A13 Resource Room
+A14 Roof
+A15 Teller Work Room
+A16 Lane Lights
+A17 Electrical Room
+A19 Break Room
+A21 Mens Restroom
+A21 Womens Restroom
+A24 Relay for A18 A23 A25 Monument & Pole Lights (Control Only)
+A27 ATM Header and Footer
+Lobby Doors (North)
+Lobby Open (South)
+Office (North)
+Office (South)
+PA RTU-1 (Roof)
+PB CU-1 (LG Roof)
+PC AHU-1 (Open Area ATM Room Side)
+PD AHU-2 (Employee Only Areas)
+PE AHU-3 (Open Area Drive Thru Teller Side)
+PF AHU-4 (Electrical Room)
+PG EWH-1 Water Heater
+SA Big Ass Fan
+SB TF-1 ATM Room
+SC EF-1 Bathrooms and Janitors
+SD ATM
+SE Drive Thru Units
+SF Pole Lights
+SG Monument Sign
+SH CU Recover

@@ -1,0 +1,10 @@
+PA RTU-1 (Roof)
+PB CU-1 (LG Roof)
+PC AHU-1 (Open Area ATM Room Side)
+PD AHU-2 (Employee Only Areas)
+PE AHU-3 (Open Area Drive Thru Teller Side)
+PF AHU-4 (Electrical Room)
+SA Big Ass Fan
+SB TF-1 ATM Room
+SC EF-1 Bathrooms and Janitors
+SH CU Recover

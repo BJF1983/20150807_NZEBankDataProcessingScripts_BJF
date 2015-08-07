@@ -1,0 +1,52 @@
+01 .Workstations Computer 1
+02 .Teller Line Computer 1
+03 .Workstations Computer 2
+04 .Teller Line Computer 2
+05 .Workstations Computer 3
+06 Teller Line General 1
+07 .Workstations Computer 4
+08 Teller Line General 2
+09 .Workstations Computer 5
+10 .Teller Manager Computer
+11 Workstations General 1
+12 TVs 1
+13 Workstations General 2
+14 .DT Teller Computer
+15 Workstations General 3
+16 TCD
+22 .DT Teller Counters
+25 .Data Backboard 1
+26 .VCR and TV Monitors
+27 .Data Backboard 2
+28 Dealer Drawer
+29 .Telephone Backboard
+30 .DT Control Unit 1
+31 .Data Rack
+32 .DT Audio Panel
+33 .Alarm Cabinet
+34 .DT Control Unit 2
+35 .DVR Recorder
+36 MFP
+37 .Data Rack
+38 General 1
+39 DT Teller Counter
+40 General 2
+41 Teller Work Rm Counter
+42 General 3
+42 RTU-1 Convenience
+43 Kitchen Appliance 1
+44 DT Teller General
+45 Kitchen Appliance 2
+47 .Refrigerator
+49 .TV and CCTV Monitors
+51 Restroom
+52 Printer 3
+53 Irrigation Controller
+54 Printer 4
+55 Printer 1
+56 TVs 2
+57 Printer 2
+58 .View Glass Controller and XFMR
+60 Water Fountain
+62 Break Room TV
+PG EWH-1 Water Heater

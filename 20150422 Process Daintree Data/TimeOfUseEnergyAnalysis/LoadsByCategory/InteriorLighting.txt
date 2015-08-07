@@ -1,0 +1,15 @@
+A05 Teller Area
+A07 Drive Thru Teller
+A09 Corridor
+A09 Janitors Room
+A11 ATM Room
+A13 Resource Room
+A15 Teller Work Room
+A17 Electrical Room
+A19 Break Room
+A21 Mens Restroom
+A21 Womens Restroom
+Lobby Doors (North)
+Lobby Open (South)
+Office (North)
+Office (South)
